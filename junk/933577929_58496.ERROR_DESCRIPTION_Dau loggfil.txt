@@ -1,0 +1,2 @@
+Line: 4 - Line:4 - Plowing methods (Midtmontert underliggende skjær) is not defined in contract. (Byggherre module/Skjemaoppsett/R12/Metoder).
+See http://www.vegvesen.no/Fag/Veg+og+gate/Drift+og+vedlikehold/ELRAPP/Automatisk+dataoppsamling and required fieds in the document: 'Automatisk oppsamling av vinterdriftsdata i ELRAPP'
